@@ -1,6 +1,6 @@
-package com.solid.openclosed.wrong;
+package com.solid.ocp.wrong;
 
-import com.solid.openclosed.Video;
+import com.solid.ocp.Video;
 
 public class VideoProfitCalculator {
 

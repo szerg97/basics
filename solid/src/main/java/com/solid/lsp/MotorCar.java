@@ -1,4 +1,4 @@
-package com.solid.liskov;
+package com.solid.lsp;
 
 public class MotorCar implements Car{
 

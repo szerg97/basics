@@ -1,4 +1,4 @@
-package com.solid.liskov;
+package com.solid.lsp;
 
 import java.util.ArrayList;
 import java.util.List;

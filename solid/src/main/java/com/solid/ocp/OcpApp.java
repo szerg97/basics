@@ -1,9 +1,8 @@
-package com.solid.openclosed;
+package com.solid.ocp;
 
-import com.solid.openclosed.right.EntertainingVideoEarningsCalculator;
-import com.solid.openclosed.right.GamingVideoEarningsCalculator;
-import com.solid.openclosed.right.VideoEarningsCalculator;
-import com.solid.openclosed.wrong.VideoProfitCalculator;
+import com.solid.ocp.right.EntertainingVideoEarningsCalculator;
+import com.solid.ocp.right.VideoEarningsCalculator;
+import com.solid.ocp.wrong.VideoProfitCalculator;
 
 public class OcpApp {
     public static void main(String[] args) {

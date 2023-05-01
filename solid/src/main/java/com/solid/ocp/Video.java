@@ -1,4 +1,4 @@
-package com.solid.openclosed;
+package com.solid.ocp;
 
 public class Video{
 

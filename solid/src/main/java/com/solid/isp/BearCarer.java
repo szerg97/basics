@@ -1,4 +1,4 @@
-package com.solid.interfaceseg;
+package com.solid.isp;
 
 public record BearCarer(String name) implements BearFeeder, BearWasher {
 

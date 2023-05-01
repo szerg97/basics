@@ -1,4 +1,4 @@
-package com.solid.singleresponsibility;
+package com.solid.srp;
 
 public class Book {
     private final String title;

@@ -1,4 +1,4 @@
-package com.solid.interfaceseg;
+package com.solid.isp;
 
 public class CrazyPerson implements BearPetter {
     @Override

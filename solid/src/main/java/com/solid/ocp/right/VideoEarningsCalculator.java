@@ -1,6 +1,6 @@
-package com.solid.openclosed.right;
+package com.solid.ocp.right;
 
-import com.solid.openclosed.Video;
+import com.solid.ocp.Video;
 
 public interface VideoEarningsCalculator {
     int calculate(Video video);

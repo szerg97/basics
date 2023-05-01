@@ -1,4 +1,4 @@
-package com.solid.interfaceseg;
+package com.solid.isp;
 
 public class IspApp {
     public static void main(String[] args) {

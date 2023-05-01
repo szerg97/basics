@@ -1,4 +1,4 @@
-package com.solid.interfaceseg;
+package com.solid.isp;
 
 import java.util.Arrays;
 
